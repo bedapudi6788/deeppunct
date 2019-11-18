@@ -8,6 +8,11 @@ Demo of the punctuation model trained on google news corpus is available at http
 
 This repo uses a seq2seq model written by me in keras with tensorflow backend. The multi-purpose seq2seq model can be found at https://github.com/bedapudi6788/txt2txt/
 
+Requirements:
+
+Tensorflow Version: 1.4
+Keras Version: 2.1.5
+
 Usage:
 ```
 from deepcorrect import DeepCorrect
